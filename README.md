@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Reggy-cp
-- 👀 I’m interested in Web Developer especially Wordpress Developer
+- 👀 I’m interested in Web Developer especially Wordpress Developer and Front End
 - 🌱 I’m currently learning Back End Development using Laravel and Django
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
